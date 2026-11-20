@@ -41,6 +41,9 @@ Filtros usados no DATASUS: município **211130 São Luís**, por residência (da
 
 - **População:** de **1.037.775** habitantes (Censo 2022) para cerca de **1.054.806** em 2025 (projeção), um aumento de **≈ 1,6%**.
 - **Queda nos nascimentos:** de **13.690** em 2022 para **11.950** em 2025, cerca de **13% a menos**. A base da pirâmide (0 a 4 anos) está encolhendo.
+  -**Mortes x Nascimento -DataSUS**
+Segundo os dados do DATASUS, entre 2022 e 2025 São Luís registrou 50.591 nascimentos e 25.350 óbitos. Ou seja, cerca de 2 nascimentos para cada morte. A cidade ainda cresce naturalmente, mas essa margem tende a diminuir: os nascimentos caem ano após ano enquanto a população envelhece.
+
 - **Nascem mais homens, mas morrem mais homens**, principalmente entre 15 e 39 anos. Entre 20 e 29 anos, foram **840 óbitos de homens** contra **227 de mulheres**.
 - **As mulheres chegam em maior número aos 80 anos ou mais.**
 - **Envelhecimento:** as faixas a partir dos 60 anos ganham participação. Na faixa de 60 a 64 anos, os homens passam de 1,8% para 1,9% da população, e as mulheres de 2,4% para 2,6%.
